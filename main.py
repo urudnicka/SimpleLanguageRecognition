@@ -11,7 +11,7 @@ def scalar(v1, v2):
     :return: iloczyn skalarny dwóch wektorów
     """
     if len(v1) != len(v2):
-        print("Error: Vector needs to be of length:", len(v2))
+        print("Error: Vector needs to be of length: ", len(v2))
         raise ValueError()
 
     s = 0
