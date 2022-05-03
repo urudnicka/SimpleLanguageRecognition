@@ -1,0 +1,13 @@
+En mathématiques et en physique, une surface minimale est une surface minimisant son aire tout en réalisant une contrainte : un ensemble de points, ou le bord de la surface, est d'avance déterminé. Si un cerceau est retiré d'une bassine d'eau savonneuse, un disque de liquide reste fixé. Un souffle dessus déforme légèrement le disque en une calotte sphérique. Si l'étude fait appel à la mécanique des fluides, le traitement mathématique utilise le langage des surfaces minimales. Usuellement, une définition oblige de préciser le contexte : quel est l'espace ambiant ? quel sens donner à la notion d'aire ? à la minimisation ?
+
+En géométrie différentielle élémentaire, une surface minimale est une surface fermée et bornée d'un espace affine réel euclidien de dimension 3 à bord régulier minimisant l'aire totale à contour fixé. La définition se généralise en géométrie différentielle : une surface minimale dans une variété riemannienne donnée est le plongement d'une variété compacte à bord minimisant le volume riemannien à bord fixé.
+
+Intuitivement, une surface minimale est une surface dont l'aire ou le volume ne peut qu'augmenter lorsqu'on lui applique une perturbation suffisamment petite. Les surfaces minimales forment donc l'analogue en dimension supérieure des géodésiques (courbes dont la longueur ne peut qu'augmenter sous l'effet d'une perturbation assez petite et assez localisée).
+
+
+La surface d'Enneper est une surface non plongée de courbure nulle.
+Décrire les surfaces minimales n'est pas un problème mathématique simple. La première approche est d'effectuer un calcul des variations sur l'aire ou le volume riemannien vu comme une fonctionnelle d'énergie. Cette méthode permet d'en décrire les points critiques : il s'agit des surfaces dont la courbure moyenne est nulle, ou des sous-variétés dont la courbure moyenne est nulle. Cette propriété est parfois présentée comme une définition des surfaces minimales. Les deux définitions (point critique ou véritable minimum) ne sont pas équivalentes.
+
+Certaines surfaces minimales peuvent être matérialisées par des bulles de savon s'appuyant sur un contour, car le film de savon tend à minimiser son énergie, donc sa superficie. Elles sont utilisées justement en ingénierie pour minimiser la surface de contact et donc par exemple les pertes d'énergie.
+
+Une question connexe est celle de la surface minimale pour un périmètre donné. Elle est traitée dans l'article « Isopérimétrie ».

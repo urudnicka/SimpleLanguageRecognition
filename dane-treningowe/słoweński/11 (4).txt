@@ -1,0 +1,25 @@
+Véter je naravno gibanje zraka, ki ga povzroči sila zaradi razlik v zračnem tlaku. Ta ima smer od visokega proti nizkemu tlaku in je torej pravokotna na izobare (črte enakega tlaka).
+
+Večina vetrov pa ne piha v smer, kamor jih "poriva" sila tlačnih razlik. Zemlja se namreč vrti, kar povzroča nekatere pospeške oz. sistemske sile. Na veter vpliva tim. Coriolisova sistemska sila, ki drži ravnotežje tlačni sili. Veter piha pravokotno na obe v smeri izobar - na severni polobli tako, da je nizek zračni tlak levo od smeri vetra, na južni polobli pa obratno. Pri tleh se vmeša še sila trenja ob tla in zato se vetrovi v spodnjih plasteh ozračja nekoliko stekajo proti nizkemu tlaku, v višinah pa se kompenzacijsko raztekajo.
+
+Omeniti je treba vsaj dve izjemi. Ob ekvatorju Coriolisove ni, zato tam vetrovi pihajo kar proti nizkemu tlaku (pasati). Druga izjema so lokalni vetrovi, ki ne trajajo zelo dolgo. Tudi na take vpliv vrtenja Zemlje ni kaj dosti pomemben in zato pihajo proti nizkemu tlaku. Primer so lokalni obalni vetrovi zaradi različnega ogrevanja/ohlajanja med morjem in kopnim. Toda tudi ti se, če pihajo nad večjim območjem in če trajajo dlje, preusmerjajo bolj vzporedno z izobarami. Tako npr. dopoldanski maestral ob vzhodni jadranski obali piha z morja proti obali, popoldne pa se preusmeri dokaj vzporedno z obalo.
+
+Stalne vetrove za določeno območje lahko zapišemo in opišemo v grafični obliki z rožo vetrov. Taka grafična oblika je uporabna predvsem za meteorologe, letalce, padalce in jadralce.
+
+Periodični vetrovi
+Periodični vetrovi so vetrovi, značilni za določeno obdobje leta.
+
+V to skupino vetrov spadajo monsuni so ponavljajoči stalni vetrovi, ki pihajo zaradi različnega segrevanja oceana in celine poleti z morja na kopno in pozimi v obratni smeri. Nastajajo tam, kjer so velike vodne površine, ki mejijo na kontinente. Najizrazitejši monsuni nastajajo med Indijskim oceanom in južnim delom Azije, predvsem v Indiji, ki poleti prodrejo celo do Himalaje. Segajo do 4 km v višino.[1]
+
+Krajevni (lokalni) vetrovi
+Lokalni (krajevni) vetrovi so značilni za posamezna področja. Nastanejo zaradi različnega segrevanja kopnega in morja ali bližine vremenskih front.[1] Pihajo v določenih delih dneva ali leta, na določenih območjih.
+
+Fen je topel in suh veter, ki piha z gorskih področij v doline in kotline V srednji Evropi je poznan predvsem v alpskem in predalpskem svetu
+Jugo oz. široko je topel veter, ki piha iz Afrike preko Sredozemskega morja, Italije in Jadranske obale. V Sloveniji je posebno izrazita na območju Vipava- Ajdovščina.
+Burja je sunkovit veter iz severovzhodne in vzhodne smeri. Poznajo jo vsi predeli jadranske obale od Trsta do Črnogorske obale.
+Burin oz. borin je rahel veter, ki piha iz kopnega na morje nad vso Jadransko obalo. in ne presega hitrosti 20 km/uro.
+Harmaton
+Košava piha iz V in JV ter SV smeri nad predeli bivše Jugoslavije ob Donavi do Vukovarja.
+Krivec je hladen veter, ki piha iz SV in V predelov Panonske nižine.
+Maestral - je veter, ki se pojavlja v Sredozemlju predvsem v topli polovici leta.
+Vardarac piha po dolini Vardarja proti Egejskemu morju

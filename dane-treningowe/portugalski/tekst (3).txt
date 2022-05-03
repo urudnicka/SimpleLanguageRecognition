@@ -1,0 +1,20 @@
+Estatística é a ciência que utiliza as teorias probabilísticas para explicar a frequência da ocorrência de eventos,[1] tanto em estudos observacionais quanto em experimentos para modelar a aleatoriedade e a incerteza de forma a estimar ou possibilitar a previsão de fenômenos futuros, conforme o caso.
+
+A estatística é uma ciência que se dedica à coleta, análise e interpretação de dados. Preocupa-se com os métodos de recolha, organização, resumo, apresentação e interpretação dos dados, assim como tirar conclusões sobre as características das fontes donde estes foram retirados, para melhor compreender as situações.
+
+Algumas práticas estatísticas incluem, por exemplo, o planejamento, a sumarização e a interpretação de observações. Dado que o objetivo da estatística é a produção da melhor informação possível a partir dos dados disponíveis, alguns autores sugerem que a estatística é um ramo da teoria da decisão.
+
+Devido às suas raízes empíricas e seu foco em aplicações, a estatística geralmente é considerada uma disciplina distinta da matemática, e não um ramo dessa.[2][3]
+História
+Ver artigo principal: História da estatística
+De acordo com a Revista do Instituto Internacional de Estatística, Cinco homens, Hermann Conring, Gottfried Achenwall, Johann Peter Süssmilch, John Graunt e William Petty já receberam a honra de serem chamados de fundadores da estatística por diferentes autores.[4]
+
+Alguns autores dizem que é comum encontrar como marco inicial da estatística a publicação do "Observations on the Bills of Mortality" (Observações sobre os Censos de Mortalidade, 1662) de John Graunt. As primeiras aplicações do pensamento estatístico estavam voltadas para as necessidades de Estado, na formulação de políticas públicas, fornecendo dados demográficos e econômicos. A abrangência da estatística aumentou no começo do século XIX para incluir a acumulação e análise de dados de maneira geral. Hoje, a estatística é largamente aplicada nas ciências naturais, e sociais, inclusive na administração pública e privada.
+
+Seus fundamentos matemáticos foram postos no século XVII com o desenvolvimento da teoria das probabilidades por Pascal e Fermat, que surgiu com o estudo dos jogos de azar. O método dos mínimos quadrados foi descrito pela primeira vez por Carl Friedrich Gauss, aproximadamente no ano de 1794. O uso de computadores modernos tem permitido a computação de dados estatísticos em larga escala e também tornaram possível novos métodos antes impraticáveis.
+
+Fundamentos
+Ligações para estatística observacional fenômeno são coletados pelos fenômenos estatísticos.
+
+Estatística inferencial é o conjunto de técnicas utilizadas para identificar relações entre variáveis que representem ou não relações de causa e efeito;
+Estatística robusta é o conjunto de técnicas utilizadas para atenuar o efeito de outliers e preservar a forma de uma distribuição tão aderente quanto possível aos dados empíricos.

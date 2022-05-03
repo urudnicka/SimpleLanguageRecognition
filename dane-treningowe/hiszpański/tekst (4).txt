@@ -1,0 +1,17 @@
+El término lengua natural designa una variedad lingüística o forma de lenguaje humano con fines comunicativos que está dotado de una sintaxis y que obedece supuestamente a los principios de economía y optimidad. Las lenguas naturales están basadas usualmente en un sistema de signos sonoros aunque algunas pueden estar basadas en signos gestuales.
+
+En la sociolingüística, el término lengua natural también se utiliza a veces como lengua étnica en contraposición a las lenguas planificadas o construida (como el esperanto). La lengua étnica evoluciona enmarcada por una cultura de hablantes nativos que utilizan dicha lengua con una finalidad comunicativa. De esta forma, se distingue entre idiomas tales como el chino mandarín, el español y el inglés, las cuales son lenguas étnicas; y el esperanto, ido, interlingua, a las cuales se les denomina lenguas planificadas. Sin embargo, una lengua planificada también puede adquirir una cultura y hablantes nativos, como es el caso del esperanto. Además, formalmente las lenguas planificadas y las lenguas étnicas pueden cumplir igualmente con los requisitos de poseer sintaxis y principios de economía que las hagan aptas para la comunicación humana general.
+
+Lenguas naturales y lenguaje
+Las lenguas naturales se contraponen a otras formas de lenguaje tanto humanas como no humanas. Así junto con las lenguas naturales humanas tenemos:
+
+El lenguaje animal que tiene intencionalidad, expresividad, representatividad e incluso puede llegar a la simulación y el fingimiento; pero en el que no se han encontrado presencia de algo que podamos llamar estructuras sintácticas.
+Los lenguajes formales usados por el hombre, entre los cuales están la lógica matemática o los lenguajes de programación. Que son estructuras dotadas de algo similar a la sintaxis de las lenguas humanas, pero tienen un alcance más reducido que las lenguas naturales humanas.
+Diferencias con los lenguajes formales
+Al contrario que en un lenguaje formal de tipo lógico-matemático, donde el significado de una cadena o frase sólo está influido por su aspecto o «forma», en los lenguajes naturales la semántica o significado específico y contextual de sus componentes intervienen en la validez o no de la frase, añadiendo complejidad a su estudio.
+
+La lingüística es la rama del saber que se encarga del estudio del lenguaje, entendido como el conjunto de reglas que gobierna cualquier proceso de comunicación.
+
+Admitiendo la existencia de reglas de comunicación, la lingüística estructural llegó a definir extensivamente una determinada lengua natural como el conjunto de frases que se pueden emitir y utilizar en esa lengua.
+
+A finales de la década de los años 1950 Noam Chomsky propuso incorporar los lenguajes naturales al tipo de lenguajes susceptibles de ser estudiados por los sistemas formales por medio de gramáticas generativas, que darán lugar a las cadenas o frases válidas en un lenguaje dado.

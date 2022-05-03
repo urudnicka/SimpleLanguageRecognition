@@ -1,0 +1,14 @@
+En sentralbank (populært kalt «bankenes bank») er en finansiell institusjon som tilbyr banktjenester til bankene og som har rettighetene til utstedelse av kontanter. Det finnes normalt kun én sentralbank per valuta. Hovedfunksjonen er å gi lån til banker som ikke får nok lån andre steder (bankinnskudd og andre banker), og renten på disse lånene samt hvor mye sentralbanken velger å låne ut eller låne tilbake igjen styrer pengemarkedsrenten og valutaens verdi på det internasjonale valutamarkedet. De fleste land i verden har en sentralbank og det finnes også mange økonomiske unioner som har felles sentralbank.
+
+Sentralbankene tilbys banktjenester av Den internasjonale oppgjørsbanken.
+
+Sentralbanker ses ofte på som utsteder av pengemengden, men oppretter kun basispengemengden som er bankenes kontoer i sentralbanken og kontanter. Pengemengden opprettes av bankene ved bokføring («kontopenger») når de gir ut lån og minker når lån nedbetales, mens basispengemengden har en regulerende effekt fordi bankene må ha en viss prosentandel basispenger i forhold til kontopenger. Basispenger brukes til oppgjør mellom bankene og når kontohavere ber om kontanter, og tilsvarte i Norge 6,7 % av pengemengdens størrelse i august 2013.[1]
+
+Opprinnelig var de fleste sentralbanker privateid og en viktig funksjon var å gi lån til staten, men mange ble nasjonalisert på 1900-tallet. I praksis er forskjellen liten fordi i begge instanser er sentralbanken «uavhenging» med et styre satt sammen av personer valgt av både staten og bankene. En praktisk forskjell er at lån direkte til staten forbys for statseide sentralbanker i mange lands sentralbanklovverk.
+
+Sveriges Riksbank regnes for å være verdens eldste sentralbank (1668), etterfulgt av Bank of England (1694).
+
+Norges Bank ble opprettet av det første Stortinget 14. juni 1816. Stortinget utarbeidet en egen grunnlovsparagraf som skulle sikre et selvstendig norsk pengevesen og en privat aksjebank. Banken ble både etablert og finansiert av stortingsrepresentantene og den norske økonomiske eliten. Først etter noen tiår ble Norges Bank en sentralbank også i praksis, med ansvar overfor bank- og pengevesenet i sin helhet.[2]
+
+Funksjon
+Bankene har konto i sentralbanken på samme måte som publikum har konto i en bank. Her står bankenes ansvarlige kapital (med unntak av kontantbeholdninger) som bankene bruker til transaksjoner seg imellom. Fra sentralbankkontoen trekker også bankene kontanter, men dette vil normalt være et minimum da det er kun for å møte forpliktelsen ovenfor egne kontohaverne og ikke er lønnsomt i seg selv.

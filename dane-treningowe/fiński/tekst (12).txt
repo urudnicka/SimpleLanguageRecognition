@@ -1,0 +1,17 @@
+Viestintä
+Siirry navigaatioonSiirry hakuun
+
+Viestintä eli vuorovaikutus voidaan ymmärtää sekä sanomien vaihdannaksi että merkitysten tuottamiseksi.[1] Lisäksi viestintä on määritelty yhteisen todellisuuden rakentamiseksiselvennä, jolloin olennaista ei ole tiedon tai informaation välittäminen vaan yhteisen ymmärryksen tuottaminen.[2]
+
+Erilaisten viestinnän määritelmien ei tarvitse välttämättä olla toisiaan poissulkevia vaan niiden voidaan ymmärtää täydentävän toisiaan. Siten viestinnässä on samanaikaisesti kyse sanomien välittämisestä, merkitysten tuottamisesta ja yhteisen ymmärryksen rakentamisesta.[3]
+
+Viestinnän malleja ja määritelmiä
+Viestinnän siirtomallit
+Viestinnän siirtomalleista vanhin on Claude Shannonin ja Warren Weaverin viestinnän matemaattinen teoria (The Mathematical Theory of Communication, 1948). Viestinnän siirtona ymmärtävät mallit ovat lineaarisia. Niissä lähettäjä lähettää sanoman viestintäkanavaa pitkin vastaanottajalle. Shannonin ja Weaverin malli on yksisuuntainen malli. Myöhemmissä lineaarisissa malleissa, kuten Wilbur Shramin mallissa viestintä on nähty kaksisuuntaisena prosessina. Suomalainen viestintätutkija Osmo A. Wiio[4] on määritellyt viestinnän tietojen vaihdannaksi ihmisten kesken. Siirtomallista jäsennyksen on ajateltu kattavan paitsi kaikkien elollisten olentojen välisen viestinnän myös teknisten järjestelmien ja organisaatioiden välisen informaation vaihdon. Siten lähettäjänä tai viestin lähteenä voi olla ihminen, eläin, joukkoviestin, tekninen laite, luonnon ilmiö tai fysiologinen prosessi. Viesti voi kulkea valo- tai ääniaaltojen välityksellä, radioaaltoja tai sähköjohtoa pitkin. Varsinkin muilla eläinlajeilla kuin ihmisellä myös muutkin aistit kuin näkö ja kuulo voivat toimia viestinnän kanavina.[5]
+
+Siirtomalleissa viestintä ymmärretään informaatiota välittäväksi prosessiksi. Toisin sanoen viestintä on prosessi, joka välittää viestinnän ulkopuolella tuotettua informaatiota.
+
+Merkityksen näkökulma
+Merkityksen näkökulmasta katsottuna sanomalla ei ole mitään omaa ehdotonta merkitystä vaan merkitys syntyy vasta kun viestin lukija sen tulkitsee. Vaikka tulkinta on yksilöllistä se ei tarkoita, että se olisi mielivaltaista vaan tulkinta on sidoksissa ympäröivään kulttuuriin. Merkitysperustaisen viestinnän määrittelyn lähtökohtana on merkki ja sitä tutkiva merkitysoppi semiotiikka.[1]
+Yhteisyyttä korostava viestintänäkemys
+Yhteisyyttä korostava viestintänäkemys ymmärtää viestinnän rituaalina, jolloin olennaista ei ole sanomien levittäminen tilassa vaan yhteiskunnan ylläpito ajassa, ei informaation siirtotoimi vaan yhteisten uskomusten esittäminen. yhteisen ymmärryksen tuottaminen.[2]

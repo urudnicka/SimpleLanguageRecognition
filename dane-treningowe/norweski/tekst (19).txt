@@ -1,0 +1,12 @@
+Pengepolitikk er betegnelsen på regulering av pengemengden i et land for å styre landets økonomi. Det gjøres som regel av sentralbanken på oppdrag av et lands myndigheter. Målet med pengepolitikken er typisk å holde inflasjonen under kontroll, men det kan også være å påvirke valutakurser.
+
+Virkemidlene i pengepolitikken varierer noe fra land til land. Norges Banks hovedverktøy for å regulere pengemengden i Norge er fastsettelsen av foliorenten. I USA er Federal Reserve Systems Federal Open Market Committees viktigste verktøy kjøp og salg av statsobligasjoner. Andre ting som påvirker pengemengden er å endre bankenes reservekrav som for europeiske banker bestemmes av 
+
+Inflasjon er vedvarende vekst i det generelle prisnivået. Inflasjon er det samme som et fall i verdien av penger, det vil si at man får mindre varer enn før for en bestemt pengesum. Inflasjonen måles vanligvis ved veksten i konsumprisene, slik den måles i Statistisk sentralbyrås konsumprisindeks.[1] Motstykket til inflasjon er deflasjon.
+
+Årsaker
+Ifølge kvantitetsteorien er inflasjon en funksjon av mengden tilgjengelige varer og tjenester målt mot markedets samlede tilgang på penger. En økning i pengemengden utover den faktiske produksjonen er årsaken til inflasjon.
+
+I Norge og andre stater som har et gjeldsbasert pengesystem består pengemengden hovedsakelig av bankkreditt og øker ved låneopptak fra banker. Pengemengden øker raskere ved lavt rentenivå kombinert med stor utlånsvillighet fra bankene.
+
+For å begrense hvor lavt rentenivået kan gå (og med det begrense inflasjonen) setter sentralbanken i Norge en rente på bankenes foliokonto (konto i sentralbanken). Denne renten omtales som Norges Banks styringsrente og fungerer som et gulv for pengemarkedsrenten (renten ved lån imellom banker). Utlånsrenten er lik pengemarkedsrenten pluss bankenes rentemargin (fortjeneste). Sentralbanker i andre land har forskjellige metoder for å regulere rentenivået.

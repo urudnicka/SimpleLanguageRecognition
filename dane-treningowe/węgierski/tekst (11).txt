@@ -1,0 +1,15 @@
+Az élettan (fiziológia) az élő szervezet működéseivel foglalkozó tudomány. Célja magyarázni az organizmus működésének fizikai és kémiai alapjait illetve a fejlődését, szerveződését és alkalmazkodását a változásokhoz.[1]
+
+Egyik legfontosabb alapfogalma a belső környezet (milieu intérieur), amely arra utal, hogy a szervezetünk egy sajátos közegben létezik, amely evolúciósan konzerválódott és eredete az őstengerig nyúlik vissza amiben kialakultak a többsejtű élőlények. A másik legfontosabb a homeosztázis, amely az élő szervezetnek a változó külső és belső körülményekhez való alkalmazkodó képessége, amellyel önmaguk viszonylagos biológiai állandóságát biztosítják.
+
+Egy angol orvos, William Harvey 1628-as felfedezése nyomán látott napvilágot ez az új tudományterület, aki korának orvostudományát felforgatva kísérletesen kimutatta, hogy a vénás vér a periféria felől áramlik a szív felé. Feltételezte továbbá, hogy a vér egy zárt rendszerben kering, az artériás vér és a vénás vér edényrendszere folyamatos egymással. Ennek felfedezése ténylegesen csak 1661-ben történt, mikor Marcello Malpighi (1628–1694) felfedezte a nemrégen feltalált mikroszkóppal a hajszálereket (kapillárisok).
+
+Harvey által elvégzett kísérlet a következő volt: kötéllel elszorította egy ember felkarját annyira, hogy a vénás keringést gátolja. A vénák a kötés alatt kidülledtek. Ezután az ujjával leszorította az egyik könyökhajlat tájéki kirajzolódó eret és elkezdte végighúzni az ujját a csukló irányába. Az észrevétele az volt, hogy ha a vénából a szívtől távolodva kipréseljük a vért, akkor az nem telik meg újra vérrel, mert a vénás billentyűk megakadályozzák az ilyen irányú folyást.
+
+A modern élettan
+A modern élettan születése a 19. század közepére tehető, mikor egy francia fiziológus Claude Bernard (1813–1878) leírta, hogy „... az élő szervezet voltaképpen nem a külső környezetében (milieu exterieur) létezik (a légkörben, ha lélegzik vagy a tengerben ha ebben a környezetben él), hanem egy folyékony belső környezetben (milieu intérieur), amelyet a keringő folyadék alkot, amely körülveszi valamennyi szöveti elemét. (…) A belső környezet stabilitása az elsődleges feltétele a létezés szabadságának és függetlenségének”
+
+Ezt egészítette ki 1926-ban egy amerikai fiziológus Walter Bradford Cannon (1871–1945), aki bevezette a homeosztázis fogalmát, amely a szervezet azon képessége hogy megőrizze belső állapotának szükséges állandóságát.
+
+Napjainkban
+Ahogy az emberi bonctan (anatómia) nem fog változni belátható időn belül, mert nem nagyon fognak új, az ember felépítésére jellemző izmot vagy végtagot találni, így az élettan is a szemmel látható tartomány alatt folytatja a felfedező hadjáratát, mert az aorta szélkazán funkciójának vagy a lélegzésnek a vizsgálata már nem valószínű, hogy Nobel díjas felfedezéshez vezetnének. Ennek megfelelően manapság a sejt és molekuláris élettan képviselik a kutatások fő frontvonalát.[4]

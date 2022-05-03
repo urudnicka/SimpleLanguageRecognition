@@ -1,0 +1,27 @@
+Druhy dovedností
+Klasická psychologie rozděluje zpravidla dovednosti na intelektové, senzomotorické a motorické. Poslední dobou se však používá pojmu i v jiných oblastech, například v pojmech sociální dovednost, asertivní dovednost aj.,[1] kde bývá občas nahrazován výrazem kompetence.
+
+V psychologii, zejména v manažersky zaměřených oborech, bývá používáno ještě rozlišení na takzvané měkké a tvrdé dovednosti, uváděné zpravidla pod anglickým názvem:
+
+soft skills (měkké dovednosti, měkké kompetence) - jejich úroveň nelze jednoznačně objektivně změřit. Jsou souborem požadavků, potřebných např. pro kvalitní pracovní výkon, které nejsou závislé na konkrétní odbornosti, ale na komplexních schopnostech člověka. Mají průřezový charakter a jsou napříč obory přenositelné a uplatnitelné.V managementu sem spadá dovednost řízení lidí, ovládání svých emocí, ale i kolektivní sporty apod.
+hard skills (tvrdé dovednosti) - jejich úroveň je jednoznačně měřitelná (dá se ověřit testem nebo praktickou zkouškou), respektive lze definovat jejich složky a měřit proměnné jako třeba četnost, množství či počet chyb. Jsou souborem odborných požadavků (teoretických znalostí, praktických dovedností) potřebných např. pro výkon povolání.Patří sem většina individuálních sportů, práce s nástrojem, obsluha strojů atd.
+
+Dovednost v behaviorální psychologii
+Behaviorální psychologie má svou vlastní, poměrně přesnou definici slova dovednost, jejímž cílem je vyloučit jakékoliv vrozené dispozice. Podle behaviorismu se jakákoliv reakce musí alespoň jednou objevit, aby mohla být odměněna (např. uspokojením).[2] Uspokojení samo však nemůže vyvolat reakci,[poznámka 1] pouze zvyšuje pravděpodobnost stejného chování i v budoucnu.[2] Můžeme však samozřejmě pozorovat pouze častost tohoto budoucího chování, nikoli pravděpodobnost k němu.[2]
+
+Takto se neobehaviorismus vyhýbá definici vloh či schopností k nějaké dovednosti. Dovednost je pozorovaná častost určitého chování, nikoli skryté vlohy, předpoklady apod.
+
+Definice
+Behaviorismus je myšlenkový směr, v jehož centru zájmu stojí chování, jeho pozorování a analýza. Psychologie je podle pojetí behaviorismu čistě objektivní, experimentální přírodní věda. Jejím cílem je předvídání a ovládání chování.
+
+Zakladatelem behaviorální psychologie je J. B. Watson, kritizující introspekci (člověk který pozoruje sám sebe je subjektivní), oproti tomu se stavěl na stranu extrospekce. Ta říká, že vnější pozorování je objektivní, dá se tedy změřit. Prováděl pokusy na zvířatech i lidech a zkoumal jejich metody učení. Chování vysvětloval vzorcem
+
+Podnět (Stimul) → Reakce (S→R)
+
+popřípadě
+
+Stimul → Černá skříňka (Black Box) → Reakce
+
+V druhém případě přistupoval k organismu agnosticky – je to jakási černá skříňka a my nejsme schopni postihnout, co se v ní děje[1]. Tento model byl dále rozšiřován dalšími behavioristy a neobehavioristy mezi něž patřil i E. L. Thorndike či B. F. Skinner. Za přispěvatele do těchto teorií lze považovat i ruskou školu I. P. Pavlova.
+
+Díky tomuto předpokladu behavioristé odmítali zkoumat svobodnou vůli a považovali ji za pouhý epifenomén jiných přírodních a psychických procesů. Podle nich má být veškeré chování živočicha plně determinované (určené) vnějšími podněty a vnitřními (byť třeba nepoznatelnými) předpoklady, např. genetickými, ontogentickými a podobně. To vedlo například ke sloučení termínů smyslová žádostivost a racionální vůle do jednoho termínu motivace, kde se tyto složky nerozlišují a nestaví do opozice. Přestaly se používat starší termíny jako například entelechie – životní síla. Eliminovaly se z vědeckého hlediska nic neříkající termíny jako přirozenost (Když známe psa a kočku, pak můžeme říci: Proč štěká pes? Protože je to jeho přirozenost. Proč neštěká kočka? Protože to není její přirozenost. Kdybychom ale neznali hada, nemohli bychom z termínu přirozenost vysvětlit, zda bude štěkat či ne.). Behaviorismus se tak zasloužil o pročištění a zjednodušení psychologické terminologie na principu Ockhamovy břitvy – předpoklady nechť nejsou zmnožovány nad nezbytnou míru. Tento přístup stále umožňuje držet mimo vědeckou psychologii takové přístupy, jako jsou například Kahudovy mentiony.

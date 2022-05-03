@@ -1,0 +1,13 @@
+Rodzaj gramatyczny – kategoria gramatyczna, która wyznacza podział rzeczowników na kilka grup.
+
+Dla rzeczownika rodzaj jest kategorią selektywną. Oznacza to, że rzeczownik ma określony rodzaj gramatyczny. Rzeczowniki można wobec tego podzielić na grupy ze względu na ich rodzaj. Na przykład w liczbie pojedynczej rzeczownik ręcznik jest rodzaju męskiego i wobec tego należy do grupy rzeczowników rodzaju męskiego, encyklopedia jest rodzaju żeńskiego, a krzesło – rodzaju nijakiego. Z kolei w liczbie mnogiej rzeczownik ręczniki jest rodzaju niemęskoosobowego, a ludzie – męskoosobowego. Rzeczownik nie odmienia się przez rodzaje (na przykład nie istnieje forma żeńska rzeczownika ręcznik). Rodzaje rzeczownika w liczbie pojedynczej i mnogiej klasyfikuje się niezależnie.
+
+Dla przymiotnika i niektórych innych części mowy rodzaj jest w wielu językach (także w polskim) kategorią fleksyjną, co oznacza, że przymiotnik odmienia się przez rodzaje. Posiada więc na przykład formę rodzaju męskiego (duży), żeńskiego (duża), nijakiego (duże), męskoosobowego (duzi) i niemęskoosobowego (duże). Przymiotnik dopasowuje się pod względem rodzaju do określanego przez siebie rzeczownika (np. duży ręcznik, duża encyklopedia, duże krzesło, duzi ludzie, duże dzieci – zob. związek zgody).
+
+Podobnym zjawiskiem są spotykane między innymi w językach bantu klasy nominalne.
+
+W językach romańskich sytuację komplikuje nieco istnienie rzeczowników, które mają „zmienny” rodzaj – w liczbie pojedynczej zachowują się jak rzeczowniki rodzaju męskiego, zaś w liczbie mnogiej jak rzeczowniki rodzaju żeńskiego. W języku włoskim jest ich niewiele, natomiast w języku rumuńskim stanowią bardzo liczną i otwartą grupę, którą zwykle opisuje się jako trzeci rodzaj.
+
+W językach słowiańskich sytuacja jest jeszcze bardziej skomplikowana, ponieważ typowy dla języków indoeuropejskich rodzaj gramatyczny skojarzony z płcią jest powiązany z gramatyczną kategorią żywotności lub gramatyczną kategorią osobowości. Rzeczowniki rodzaju męskiego dzielą się na grupy zgodnie z ich żywotnością lub osobowością.
+
+W niektórych językach germańskich, m.in. w holenderskiej odmianie niderlandzkiego, szwedzkim i duńskim przeciwstawia się rodzaj nijaki i utrum (inaczej rodzaj wspólny, męsko-żeński, nienijaki lub ogólny).

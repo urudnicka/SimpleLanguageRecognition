@@ -1,0 +1,13 @@
+Språklig hantering av valutatecken
+På svenska skall valutasymboler skrivas efter beloppet, även om man gör på annat sätt på det språk som används i det land som valutan kommer ifrån (att göra så är regel på engelska). Man skriver alltså 10 kr (eller 10 SEK, 10 DKK etc.), 50 €, 30 £ och 40 $ i en svensk text.[5] I löpande text bör hela valutanamnet skrivas ut, alltså 40 dollar, 40 euro och så vidare.
+
+Talar man om växelkursen mellan två olika valutor (valutakursen), kallas detta för valutapar och refereras till med hjälp av valutasymbolerna; till exempel GBP/SEK där den sistnämnda valutasymbolen är prisvalutan (SEK i exemplet).
+
+Valutainförsel
+De flesta av världens valutor kan införskaffas på växlingskontor i större delen av världen. I Sverige sköts denna marknad framförallt av Forex Bank, Exchange Finans och Tavex. I vissa länder, framförallt i Mellanöstern och Nordafrika är det förbjudet att föra med sig landets valuta ut ur landet, den kan enbart köpas på plats vid gränsen. Marockanska dirham går till exempel inte att få tag på utanför Marocko, och det är förbjudet att ta med sig dessa pengar utomlands. Vid resor mellan länder inom Europeiska unionen är det normalt ett kontantbelopp motsvarande 10 000 euro som får införas utan förtullning.
+
+Nuförtiden kan valuta överföras elektroniskt via Internet. Det kan ske på flera sätt, till exempel via SWIFT (bankernas traditionella system), via kontokortföretagens system, plus fler system såsom PayPal. Internet har väsentligt förenklat handeln mellan olika valutor. I Sverige finns det 3 valutasajter som är specialiserade på att sälja och köpa valuta för privatpersoner, 24Valuta, Unimon och Valutaonline.
+
+Valutahandel, eller så kallad forex trading, är också ett spekulationsmoment. Handeln sker via mäklare på Internet och privatpersoner kan genom den så kallade hävstångseffekten handla med större summor än ursprunglig insats. Detta genom att valutamäklare går in och lägger in en säkerhet. För detta tar mäklaren en avgift. Forex är kort för Foreign Exchange och innebär alltså handel med valutor.[6] Handel med valutor utförs i form av handel med valutapar. En valutas styrka mäts mot en annan valutas styrka. De vanligaste valutaparen är.
+Alternativ valuta
+Alternativ valuta definieras som en valuta som inte regleras av en stat. De vanligaste valutorna är de som företag erbjuder som lojalitetsprogram där ett visst antal poäng som tjänats in kan bytas mot varor istället för en traditionell valuta. Kryptovaluta som Bitcoin är också en alternativ valuta.[7]

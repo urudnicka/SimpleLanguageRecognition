@@ -1,0 +1,24 @@
+Chemický prvok alebo prvok je látka zložená z atómov s rovnakým protónovým číslom. Ide o chemicky čisté látky, ktoré už nemožno rozložiť na jednoduchšie látky. V minulosti používaná definícia prvku ako látky, ktorá je nedeliteľná na ďalšie zložky s inými chemickými vlastnosťami, bola zamietnutá, lebo nebrala do úvahy rozdielne vlastnosti izotopov (najmä pri atómoch s nízkym protónovým číslom), ani alotropné modifikácie niektorých prvkov.
+
+Rozhodujúcim kritériom odlišnosti jednotlivých prvkov je protónové číslo, štruktúra elektrónových obalov jednotlivých prvkov zasa determinuje ich chemické vlastnosti. Vďaka tomuto periodickému zákonu možno prvky usporiadať do periodickej tabuľky. V súčasnosti poznáme 118 chemických prvkov, z toho 94 sa vyskytuje na Zemi, zvyšných 24 bolo umelo pripravených (technécium ako prvý umelý prvok v roku 1937).
+
+Chemické značky prvkov
+Jednotlivé chemické prvky sa označujú značkami (symbolmi), táto tradícia pochádza už od alchymistov. Súčasný systém značenia zaviedol Berzelius, ktorý použil písmená latinskej abecedy a značky odvodil od latinských názvov prvkov, pričom značky sa uvádzajú veľkými písmenami, v prípade viacpísmenových kombinácií je veľké iba prvé písmeno (napr. Hydrogenium - vodík, Ferrum - železo).
+
+Odlíšenie izotopov jednotlivého prvku sa vyznačuje horným indexom pred prvkom (napr. 235U, 238U). Výnimku tvorí deutérium (symbol D) a trícium (symbol T).
+
+Vznik a vývoj vesmíru začína podľa dnes všeobecne uznávanej teórie veľkým treskom. Predpokladá sa, že všetka hmota vesmíru bola obsiahnutá v prajadre obrovskej hustoty a teploty, ktoré explodovalo a hmota bola rovnomerne rozdelená do priestoru. Podľa jedného modelu bola na počiatku hustota vesmíru 1096 g · cm-3 a teplota 1032 K. Priestor vtedy obsahoval elementárne častice, ktoré sa vplyvom priaznivých podmienok začali spojovať. Vznikli jadrá deutéria a hélia. Tak sa začal proces tvorenia prvkov. Telesá, pri ktorých môžeme určiť relatívne zastúpenie aspoň niektorých prvkov, sú:
+
+Slnko a ďalšie hviezdy
+plynné hmloviny
+medzihviezdna hmota
+častice kozmického žiarenia
+Zem, Mesiac a meteority
+iné planéty, asteroidy a kométy slnečnej sústavy
+Relatívne rozšírenie prvkov klesá približne exponenciálne so vzrastajúcim hmotnostným číslom A až k hodnote A » 100
+Medzi Z = 23 až 28, kam patria V, Cr , Mn, Fe, Co a Ni, je výrazné maximum pri Fe, ktoré je 103 krát rozšírenejšie, než by sa z obecného priebehu očakávalo.
+Deutérium, Li, Be a B sú v porovnaní so susednými prvkami H, He, C a N vzácnejšie.
+Medzi ľahkými jadrami sú rozšírenejšie tie, ktoré majú hmotnostné číslo deliteľné štyrmi, než atómy susedné.
+Atómy s párnym A sú rozšírenejšie ako atómy s A nepárnym.
+Atómy ťažkých prvkov majú sklon byť bohatšie na neutróny
+Maximum s dvoma vrcholmi sa objavuje u A = 80, 90 A = 130, 138 a A = 196, 208

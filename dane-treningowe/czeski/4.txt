@@ -1,0 +1,9 @@
+Beatmatching je technika používaná klubovými DJ pro plynulý přechod mezi skladbami v jejich setu. Jedná se o srovnání rychlosti hrané a vmíchávané skladby, při níž se docílí stejného tempa a rytmus obou skladeb se vzájemně překryje. Vznikne tak dojem jednotného beatu a DJ pak na mixážním pultu může obě skladby prolnout dohromady, a postupně přejít plynule od jedné skladby do druhé, aniž by měl posluchač rozeznat, kdy k přechodu mezi skladbami došlo. Aby bylo kromě tempa možné srovnat jednotlivé rytmy, musí být skladby stejného nebo podobného rytmického žánru. Pro srovnání rychlosti skladeb se používá tzv. pitch. To je lineární fader v pravém dolním rohu gramofonu, nebo u modernějších CD přehrávačů. Standardní rozsah pitche na gramofonech značky Technics je od -8% do +8% rychlosti. U jiných typů přehrávačů a gramofonů se však může lišit, např. -10% až + 10% nebo dokonce -20% až +20%.
+
+Tempo určuje v hudbě rychlost pohybu v čase. Každá skladba má své tempo, které se v notovém záznamu vyznačuje buď příslušným názvem nebo číslicemi, představujícími počet dobových jednotek (čtvrťových not) za minutu.
+
+Číselné označení se provádí v notovém záznamu zápisem tzv. BPM (beats per minute), tedy (doslovně přeloženo) počtu úderů za minutu. Slovní označení tempa představují na rozdíl od číselného nikoli přesný počet dobových jednotek za minutu, ale jejich přibližné rozpětí. Základem, od kterého se odvozují, je tzv. „normální rychlost“, která odpovídá klidové rychlosti lidského tepu, tedy 60–90 úderů za minutu, a představuje orientačně střední tempo.
+
+Změny tempa uvnitř skladby jsou na příslušném místě notového záznamu vyznačovány slovně.
+
+Pro slovní označení se užívá většinou italského názvosloví.

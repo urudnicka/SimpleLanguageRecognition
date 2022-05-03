@@ -1,0 +1,13 @@
+Ein Cursor („Läufer“) (auch Einfügemarke, Eingabemarkierung, Eingabezeiger oder Schreibmarke) markiert in einem Computerprogramm die aktuelle Bearbeitungsposition auf dem Bildschirm. Bei einem Textverarbeitungsprogramm oder -editor zeigt er die Stelle auf dem Bildschirm, an der Tastatureingaben eingefügt werden. Dieser Cursor wird meist als senkrechter oder waagrechter Strich oder als rechteckiger Block dargestellt.
+
+Cursor existieren in zwei verschiedenen Ausprägungen: Entweder sie markieren eine Position zwischen zwei Daten (oft durch einen schmalen senkrechten oder waagrechten Strich symbolisiert) oder die Position eines Datums selbst (daher die Blockdarstellung).
+
+Auch der Mauszeiger auf dem Desktop, welcher mit einem Zeigegerät bewegt und genutzt wird, wird manchmal „Cursor“ genannt, in der Windows-Dokumentation englisch mouse cursor, sonst aber weit überwiegend mouse pointer. Bei Touchscreens ist der Cursor oft nicht oder nur bei Berührung sichtbar. Der Druckpunkt des Fingers oder Zeigestifts wird uneinheitlich beispielsweise als Touch- oder Fokuspunkt bezeichnet.
+
+Innerhalb der Kommandozeile von Windows wird der Cursor standardmäßig als blinkender Unterstrich dargestellt, dies zeigt den aktiven Einfügemodus an. Im Überschreibenmodus wird der Cursor als Block dargestellt.
+
+Eine Besonderheit bildet der Copy Cursor zum einfachen Kopieren von Textinhalten.
+
+In manchen Programmen (z. B. Xfig) oder innerhalb mancher Fenstermanager wie dem Common Desktop Environment wird ein Zirkumflex (englisch caret) als Schreibmarke verwendet. Der Vorteil liegt darin, dass die Schreibmarke den eigentlichen Text nicht überdeckt und deshalb nicht sehr schmal sein oder „nervös“ blinken muss.
+
+Auch wenn der Zirkumflex nur noch selten zum Einsatz kommt, bezeichnen manche Nutzer den Tastatur-Cursor trotzdem generell als „Caret“, um eine bessere Unterscheidung zum Cursor der Maus zu ermöglichen. Andere verwenden aus demselben Grund die Bezeichnungen „Mauszeiger“ und „Textcursor“.
